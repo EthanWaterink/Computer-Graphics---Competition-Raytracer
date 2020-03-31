@@ -8,7 +8,7 @@ We distinguish two types of soft shadows: banding and jitter:
 * Banding soft shadows have distinct step-like differences in shadow intensity. Each cell emits light from its center.
 * Jitter soft shadows are more noisy/granier. Instead of emitting light from its center, a random position in each cell is chosen.
 
-This raytracer also does anti-aliasing, reflaction and refraction.
+This raytracer also does anti-aliasing, reflaction and refraction. Note that transparent objects don't have any shadows for simplicity.
 
 
 Controls:
