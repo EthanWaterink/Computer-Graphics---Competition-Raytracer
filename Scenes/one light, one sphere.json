@@ -1,15 +1,15 @@
 {
-    "Eye": [0, 0, 1000],
+    "Eye": [200, 200, 1000],
     "Shadows": true,
-    "ShadowType": 2,
+    "ShadowType": 1,
     "MaxRecursionDepth": 2,
     "SuperSamplingFactor": 2,
     "Lights": [
         {
             "position": [-500, 500, 1000],
             "color": [1.0, 1.0, 1.0],
-            "cells_x": 8,
-            "cells_y": 8,
+            "cells_x": 2,
+            "cells_y": 2,
             "width": 200.0,
             "height": 200.0
         }
@@ -18,8 +18,8 @@
         {
             "type": "sphere",
             "comment": "Billiard ball",
-            "position": [-200, 400, 200],
-            "radius": 300,
+            "position": [100, 200, 200],
+            "radius": 125,
             "rotation": [-0.3, 1, 0.2],
             "angle": 280,
             "material":

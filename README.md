@@ -18,3 +18,6 @@ Controls:
 * width: a field for Light: the width of the light area
 * height: a field for Light: the height of the light area
 * Light->position is the **center** of the light area. It lives in the z-plane
+
+
+Some pictures with the different soft shadows, cell sizes, scenes can be found in the Screenshots folder.
