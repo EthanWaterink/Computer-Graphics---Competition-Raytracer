@@ -1,0 +1,504 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/hit.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+limits
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/image.cpp
+image.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/image.h
+lode/lodepng.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/lode/lodepng.h
+iostream
+-
+fstream
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/image.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+string
+-
+vector
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/json/json.h
+algorithm
+-
+cassert
+-
+ciso646
+-
+cstddef
+-
+functional
+-
+initializer_list
+-
+iosfwd
+-
+iterator
+-
+numeric
+-
+string
+-
+utility
+-
+cstdint
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+ciso646
+-
+cstddef
+-
+limits
+-
+type_traits
+-
+utility
+-
+exception
+-
+stdexcept
+-
+string
+-
+array
+-
+ciso646
+-
+cstddef
+-
+cstdint
+-
+algorithm
+-
+array
+-
+ciso646
+-
+forward_list
+-
+iterator
+-
+string
+-
+tuple
+-
+type_traits
+-
+utility
+-
+valarray
+-
+ciso646
+-
+iterator
+-
+tuple
+-
+type_traits
+-
+utility
+-
+valarray
+-
+vector
+-
+algorithm
+-
+array
+-
+cassert
+-
+cstddef
+-
+cstring
+-
+ios
+-
+istream
+-
+iterator
+-
+memory
+-
+numeric
+-
+string
+-
+type_traits
+-
+utility
+-
+clocale
+-
+cstddef
+-
+cstdlib
+-
+initializer_list
+-
+ios
+-
+iomanip
+-
+sstream
+-
+string
+-
+vector
+-
+cassert
+-
+cmath
+-
+cstdint
+-
+functional
+-
+string
+-
+utility
+-
+cstddef
+-
+limits
+-
+ciso646
+-
+iterator
+-
+type_traits
+-
+cstddef
+-
+string
+-
+cstddef
+-
+iterator
+-
+utility
+-
+algorithm
+-
+cstddef
+-
+ios
+-
+iterator
+-
+memory
+-
+ostream
+-
+string
+-
+vector
+-
+algorithm
+-
+array
+-
+cassert
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstring
+-
+iomanip
+-
+ios
+-
+iterator
+-
+limits
+-
+sstream
+-
+string
+-
+utility
+-
+algorithm
+-
+array
+-
+cstdint
+-
+cstring
+-
+limits
+-
+algorithm
+-
+array
+-
+cassert
+-
+ciso646
+-
+clocale
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdio
+-
+iterator
+-
+limits
+-
+string
+-
+type_traits
+-
+cassert
+-
+ciso646
+-
+cmath
+-
+cstdint
+-
+cstring
+-
+initializer_list
+-
+utility
+-
+utility
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/json/json_fwd.h
+cstdint
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/light.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+memory
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/lode/lodepng.cpp
+lodepng.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/lode/lodepng.h
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/lode/lodepng.h
+string.h
+-
+vector
+-
+string
+-
+lodepng.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/lode/lodepng.h
+iostream
+-
+lodepng.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/lode/lodepng.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/main.cpp
+raytracer.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/raytracer.h
+iostream
+-
+string
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/material.h
+image.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/image.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/object.h
+material.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/material.h
+hit.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/hit.h
+ray.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/ray.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+memory
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/objloader.cpp
+objloader.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/objloader.h
+fstream
+-
+iostream
+-
+sstream
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/objloader.h
+vertex.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/vertex.h
+string
+-
+vector
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/ray.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/raytracer.cpp
+raytracer.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/raytracer.h
+image.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/image.h
+light.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/light.h
+material.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/material.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+shapes/quad.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/quad.h
+shapes/sphere.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/sphere.h
+json/json.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/json/json.h
+exception
+-
+fstream
+-
+iostream
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/raytracer.h
+scene.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/scene.h
+string
+-
+json/json_fwd.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/json/json_fwd.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/scene.cpp
+scene.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/scene.h
+hit.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/hit.h
+image.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/image.h
+material.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/material.h
+ray.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/ray.h
+algorithm
+-
+cmath
+-
+limits
+-
+iostream
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/scene.h
+light.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/light.h
+object.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/object.h
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+vector
+-
+utility
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/quad.cpp
+quad.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/quad.h
+cmath
+-
+limits
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/quad.h
+../object.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/object.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/solvers.cpp
+solvers.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/solvers.h
+cmath
+-
+utility
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/solvers.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/sphere.cpp
+sphere.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/sphere.h
+solvers.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/solvers.h
+cmath
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/shapes/sphere.h
+../object.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/object.h
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.cpp
+triple.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+json/json.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/json/json.h
+cmath
+-
+exception
+-
+iostream
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/triple.h
+json/json_fwd.h
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/json/json_fwd.h
+iosfwd
+-
+
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/src/vertex.h
+

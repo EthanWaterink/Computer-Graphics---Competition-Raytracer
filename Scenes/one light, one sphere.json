@@ -1,0 +1,49 @@
+{
+    "Eye": [0, 0, 1000],
+    "Shadows": true,
+    "ShadowType": 2,
+    "MaxRecursionDepth": 2,
+    "SuperSamplingFactor": 2,
+    "Lights": [
+        {
+            "position": [-500, 500, 1000],
+            "color": [1.0, 1.0, 1.0],
+            "cells_x": 8,
+            "cells_y": 8,
+            "width": 200.0,
+            "height": 200.0
+        }
+    ],
+    "Objects": [
+        {
+            "type": "sphere",
+            "comment": "Billiard ball",
+            "position": [-200, 400, 200],
+            "radius": 300,
+            "rotation": [-0.3, 1, 0.2],
+            "angle": 280,
+            "material":
+            {
+                "texture": "../textures/billiard.png",
+                "ka": 0.2,
+                "kd": 0.8,
+                "ks": 0.0,
+                "n": 1
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Background",
+            "position": [200, 200, -1000],
+            "radius": 1000,
+            "material":
+            {
+                "color": [0.4, 0.4, 0.4],
+                "ka": 0.2,
+                "kd": 0.8,
+                "ks": 0,
+                "n": 1
+            }
+        }
+    ]
+}

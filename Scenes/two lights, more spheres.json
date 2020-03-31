@@ -1,0 +1,117 @@
+{
+    "Eye": [200, 200, 1000],
+    "Shadows": true,
+    "ShadowType": 1,
+    "MaxRecursionDepth": 2,
+    "SuperSamplingFactor": 2,
+    "Lights": [
+        {
+            "position": [-200, 600, 1500],
+            "color": [0.4, 0.4, 0.8],
+            "cells_x": 2,
+            "cells_y": 2,
+            "width": 200.0,
+            "height": 200.0
+        },
+        {
+            "position": [600, 600, 1500],
+            "color": [0.8, 0.8, 0.4],
+            "cells_x": 2,
+            "cells_y": 2,
+            "width": 150.0,
+            "height": 150.0
+        }
+    ],
+    "Objects": [
+        {
+            "type": "sphere",
+            "comment": "Blue sphere",
+            "position": [90, 320, 100],
+            "radius": 50,
+            "material":
+            {
+                "color": [0.0, 0.0, 1.0],
+                "ka": 0.2,
+                "kd": 0.7,
+                "ks": 0.5,
+                "n": 64
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Green sphere",
+            "position": [210, 270, 300],
+            "radius": 50,
+            "material":
+            {
+                "color": [0.0, 1.0, 0.0],
+                "ka": 0.2,
+                "kd": 0.3,
+                "ks": 0.5,
+                "n": 8
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Billiard ball",
+            "position": [290, 170, 150],
+            "radius": 50,
+            "rotation": [0, 1, 0],
+            "angle": 280,
+            "material":
+            {
+                "texture": "../textures/billiard.png",
+                "ka": 0.2,
+                "kd": 0.8,
+                "ks": 0.0,
+                "n": 1
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Earth sphere",
+            "position": [140, 220, 400],
+            "radius": 50,
+            "rotation": [1, 0, 0],
+            "angle": 45,
+            "material":
+            {
+                "texture": "../textures/earthmap1k.png",
+                "ka": 0.2,
+                "kd": 0.8,
+                "ks": 0.0,
+                "n": 1
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Transparent sphere",
+            "position": [110, 150, 450],
+            "radius": 50,
+            "material":
+            {
+                "color": [0.14, 0.54, 0.85],
+                "ka": 0.05,
+                "kd": 0.0,
+                "ks": 0.0,
+                "n": 32,
+                "isTransparent": true,
+                "nt": 1.05
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Background",
+            "position": [200, 200, -1000],
+            "radius": 1000,
+            "material":
+            {
+                "color": [0.4, 0.4, 0.4],
+                "ka": 0.2,
+                "kd": 0.8,
+                "ks": 0,
+                "n": 1
+            }
+        }
+    ]
+}

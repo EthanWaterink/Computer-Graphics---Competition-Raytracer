@@ -1,0 +1,3 @@
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ethan/Google Drive/Year 3/2a/Computer Graphics/Assignments/ComputerGraphics/Competition - Raytraces/build/CMakeFiles/ray.dir
